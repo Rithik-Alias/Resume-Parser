@@ -34,4 +34,6 @@ You can test the model and the python notebook for training the model is availab
 
 ## Deploying the model
 
-The model
+The model deployment code is available in web folder.
+After installing flask `pip install flask`
+go for running app.py
