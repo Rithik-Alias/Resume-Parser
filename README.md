@@ -30,7 +30,11 @@ The base_config file specified in this line is available from (https://spacy.io/
 
 After the training the model will be saved in the directory NER/model-best/
 
-You can test the model and the python notebook for training the model is available in Test folder
+You can test the model and the python notebook for training the model is available in Test folder.
+
+Unfortunately from spacy 3.0 onwards, there is no option to get the confidence score of extracted entities.
+
+You can get the validation score while training in meta.json file inside the model folder.
 
 ## Deploying the model
 
