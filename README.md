@@ -1,7 +1,5 @@
 This was the result that we got on sending a random resume to the model. You can see how accurate it is.
-![download](https://user-images.githubusercontent.com/76393919/143978429-39902191-1d08-4c96-8977-68d98871a0b8.png)
-
-
+![image](https://user-images.githubusercontent.com/76393919/143998602-a4fbe6b6-e950-47d8-8090-6c942527ecd3.png)
 
 # Resume-Parser
 
